@@ -1,4 +1,4 @@
-# Hackintym-24
+# Hackintym-24.
 
 <!-- PROBLEM STATEMENT -->
 ## Problem Statement
