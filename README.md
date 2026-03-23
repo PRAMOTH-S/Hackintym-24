@@ -1,7 +1,7 @@
 # Hackintym-24
 
 <!-- PROBLEM STATEMENT -->
-## Problem Statemen
+## Problem Statement
 To launch an online interaction medium for all the hospitalization and medication purposes.
 
 <!-- TABLE OF CONTENTS -->
